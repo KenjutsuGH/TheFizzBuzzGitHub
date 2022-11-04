@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "53/cTu62QCBwTVPcPg2XWCAuNpYL27pbo3F38LXi3rtByOYjhivJQ9ASSHS1NwmB3hV4ygxmX9VK17IP8OZ57w==",
+  "success": true,
+  "projectFilePath": "/Users/pkruger/Projects/TDD/TheFizzBuzzGitHub/TheFizzBuzzGitHub/TheFizzBuzzGitHub.csproj",
+  "expectedPackageFiles": [
+    "/Users/pkruger/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/pkruger/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/pkruger/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
